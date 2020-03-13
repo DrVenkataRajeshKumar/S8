@@ -6,7 +6,7 @@ Dr Mounika,
 Meenakshi and 
 Vivek
 
-we separated the ResNet code files and saved in goole drive as resnetmodel, and uploaded them in github 
+we separated the ResNet code files and saved in google drive as resnetmodel, and uploaded them in github 
 
 we changed the code to increase the accuracy by adding softmax
 [https://github.com/DrVenkataRajeshKumar/S8/blob/master/resnetmodel.py] 
