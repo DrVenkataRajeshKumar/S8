@@ -1,7 +1,9 @@
 # S8
 
 
-we separated the ResNet code files and saved in google drive as resnetmodel, and uploaded them in github 
+we separated the ResNet code files and saved in google drive as resnetmodel, and uploaded to github 
+
+we used dataloader, datatransform, modelstats and model trainer from google drive library created for S7 assignment.
 
 we changed the code to increase the accuracy by adding softmax
 [https://github.com/DrVenkataRajeshKumar/S8/blob/master/resnetmodel.py] 
